@@ -12,6 +12,8 @@
 		4605F488232A7B2C00995E12 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4605F486232A7B2C00995E12 /* Main.storyboard */; };
 		4605F48A232A7B2E00995E12 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4605F489232A7B2E00995E12 /* Assets.xcassets */; };
 		4605F48D232A7B2E00995E12 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4605F48B232A7B2E00995E12 /* LaunchScreen.storyboard */; };
+		4605F495232A7EB500995E12 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4605F494232A7EB500995E12 /* User.swift */; };
+		4605F497232A7F5000995E12 /* ColorChoice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4605F496232A7F5000995E12 /* ColorChoice.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		4605F489232A7B2E00995E12 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4605F48C232A7B2E00995E12 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4605F48E232A7B2E00995E12 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4605F494232A7EB500995E12 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		4605F496232A7F5000995E12 /* ColorChoice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorChoice.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +60,8 @@
 			children = (
 				4605F482232A7B2C00995E12 /* AppDelegate.swift */,
 				4605F484232A7B2C00995E12 /* ViewController.swift */,
+				4605F494232A7EB500995E12 /* User.swift */,
+				4605F496232A7F5000995E12 /* ColorChoice.swift */,
 				4605F486232A7B2C00995E12 /* Main.storyboard */,
 				4605F489232A7B2E00995E12 /* Assets.xcassets */,
 				4605F48B232A7B2E00995E12 /* LaunchScreen.storyboard */,
@@ -137,6 +143,8 @@
 			files = (
 				4605F485232A7B2C00995E12 /* ViewController.swift in Sources */,
 				4605F483232A7B2C00995E12 /* AppDelegate.swift in Sources */,
+				4605F497232A7F5000995E12 /* ColorChoice.swift in Sources */,
+				4605F495232A7EB500995E12 /* User.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
